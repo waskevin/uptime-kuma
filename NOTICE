@@ -1,0 +1,15 @@
+Uptime Kuma for TerraMaster TOS 7 - notices
+=========================================
+
+Packaging (config.ini, uptime-kuma.lang, uptime-kuma.svg, docker-compose.yml, README.md,
+PRIVACY.md, LICENSE): Copyright (c) 2026 waskevin.
+
+The application itself is NOT part of this repository and is NOT authored by
+the packager.  It is developed by the Uptime Kuma project and its contributors,
+who hold the copyright in the application code.  All credit for the
+application belongs to them.
+
+Upstream project / source code : https://github.com/louislam/uptime-kuma
+License                        : MIT (full text in LICENSE)
+Image distribution             : https://hub.docker.com/r/louislam/uptime-kuma
+Privacy policy                 : PRIVACY.md (this repository)
