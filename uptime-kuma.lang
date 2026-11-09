@@ -4,96 +4,96 @@
 name = "Uptime Kuma"
 auth = "waskevin"
 descript = "Uptime Kuma is a self-hosted monitoring tool for your TNAS. Watch websites, HTTP endpoints, TCP ports, ping, DNS records and Docker containers, get notified by email, webhook, Telegram, ntfy and many other channels, and publish your own status pages."
-release_note = "1. Initial release."
-important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center."
+release_note = "1.0.1: initial release."
+important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center. License: MIT. Source code, notices and privacy policy: https://github.com/waskevin/uptime-kuma"
 
 [zh-cn]
 name = "Uptime Kuma"
 auth = "waskevin"
 descript = "Uptime Kuma 是运行在 TNAS 上的自建监控工具。可监控网站、HTTP 接口、TCP 端口、Ping、DNS 记录与 Docker 容器，支持邮件、Webhook、Telegram、ntfy 等多种通知渠道，并可对外发布状态页。"
-release_note = "1. Initial release."
-important = "首次启动时网页界面会进入数据库设置向导，请选择 SQLite（内置）并确认，然后自行创建管理员账号，系统没有默认密码。需先在应用中心安装并启用 DockerEngine。"
+release_note = "1.0.1: initial release."
+important = "首次启动时网页界面会进入数据库设置向导，请选择 SQLite（内置）并确认，然后自行创建管理员账号，系统没有默认密码。需先在应用中心安装并启用 DockerEngine。 许可证：MIT。源码、版权声明与隐私政策：https://github.com/waskevin/uptime-kuma"
 
 [zh-hk]
 name = "Uptime Kuma"
 auth = "waskevin"
 descript = "Uptime Kuma 是运行在 TNAS 上的自建监控工具。可监控网站、HTTP 接口、TCP 端口、Ping、DNS 记录与 Docker 容器，支持邮件、Webhook、Telegram、ntfy 等多种通知渠道，并可对外发布状态页。"
-release_note = "1. Initial release."
-important = "首次启动时网页界面会进入数据库设置向导，请选择 SQLite（内置）并确认，然后自行创建管理员账号，系统没有默认密码。需先在应用中心安装并启用 DockerEngine。"
+release_note = "1.0.1: initial release."
+important = "首次启动时网页界面会进入数据库设置向导，请选择 SQLite（内置）并确认，然后自行创建管理员账号，系统没有默认密码。需先在应用中心安装并启用 DockerEngine。 许可证：MIT。源码、版权声明与隐私政策：https://github.com/waskevin/uptime-kuma"
 
 [fr-fr]
 name = "Uptime Kuma"
 auth = "waskevin"
 descript = "Uptime Kuma is a self-hosted monitoring tool for your TNAS. Watch websites, HTTP endpoints, TCP ports, ping, DNS records and Docker containers, get notified by email, webhook, Telegram, ntfy and many other channels, and publish your own status pages."
-release_note = "1. Initial release."
-important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center."
+release_note = "1.0.1: initial release."
+important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center. License: MIT. Source code, notices and privacy policy: https://github.com/waskevin/uptime-kuma"
 
 [de-de]
 name = "Uptime Kuma"
 auth = "waskevin"
 descript = "Uptime Kuma is a self-hosted monitoring tool for your TNAS. Watch websites, HTTP endpoints, TCP ports, ping, DNS records and Docker containers, get notified by email, webhook, Telegram, ntfy and many other channels, and publish your own status pages."
-release_note = "1. Initial release."
-important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center."
+release_note = "1.0.1: initial release."
+important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center. License: MIT. Source code, notices and privacy policy: https://github.com/waskevin/uptime-kuma"
 
 [it-it]
 name = "Uptime Kuma"
 auth = "waskevin"
 descript = "Uptime Kuma is a self-hosted monitoring tool for your TNAS. Watch websites, HTTP endpoints, TCP ports, ping, DNS records and Docker containers, get notified by email, webhook, Telegram, ntfy and many other channels, and publish your own status pages."
-release_note = "1. Initial release."
-important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center."
+release_note = "1.0.1: initial release."
+important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center. License: MIT. Source code, notices and privacy policy: https://github.com/waskevin/uptime-kuma"
 
 [es-es]
 name = "Uptime Kuma"
 auth = "waskevin"
 descript = "Uptime Kuma is a self-hosted monitoring tool for your TNAS. Watch websites, HTTP endpoints, TCP ports, ping, DNS records and Docker containers, get notified by email, webhook, Telegram, ntfy and many other channels, and publish your own status pages."
-release_note = "1. Initial release."
-important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center."
+release_note = "1.0.1: initial release."
+important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center. License: MIT. Source code, notices and privacy policy: https://github.com/waskevin/uptime-kuma"
 
 [hu-hu]
 name = "Uptime Kuma"
 auth = "waskevin"
 descript = "Uptime Kuma is a self-hosted monitoring tool for your TNAS. Watch websites, HTTP endpoints, TCP ports, ping, DNS records and Docker containers, get notified by email, webhook, Telegram, ntfy and many other channels, and publish your own status pages."
-release_note = "1. Initial release."
-important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center."
+release_note = "1.0.1: initial release."
+important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center. License: MIT. Source code, notices and privacy policy: https://github.com/waskevin/uptime-kuma"
 
 [ja-jp]
 name = "Uptime Kuma"
 auth = "waskevin"
 descript = "Uptime Kuma is a self-hosted monitoring tool for your TNAS. Watch websites, HTTP endpoints, TCP ports, ping, DNS records and Docker containers, get notified by email, webhook, Telegram, ntfy and many other channels, and publish your own status pages."
-release_note = "1. Initial release."
-important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center."
+release_note = "1.0.1: initial release."
+important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center. License: MIT. Source code, notices and privacy policy: https://github.com/waskevin/uptime-kuma"
 
 [ko-kr]
 name = "Uptime Kuma"
 auth = "waskevin"
 descript = "Uptime Kuma is a self-hosted monitoring tool for your TNAS. Watch websites, HTTP endpoints, TCP ports, ping, DNS records and Docker containers, get notified by email, webhook, Telegram, ntfy and many other channels, and publish your own status pages."
-release_note = "1. Initial release."
-important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center."
+release_note = "1.0.1: initial release."
+important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center. License: MIT. Source code, notices and privacy policy: https://github.com/waskevin/uptime-kuma"
 
 [pl-pl]
 name = "Uptime Kuma"
 auth = "waskevin"
 descript = "Uptime Kuma is a self-hosted monitoring tool for your TNAS. Watch websites, HTTP endpoints, TCP ports, ping, DNS records and Docker containers, get notified by email, webhook, Telegram, ntfy and many other channels, and publish your own status pages."
-release_note = "1. Initial release."
-important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center."
+release_note = "1.0.1: initial release."
+important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center. License: MIT. Source code, notices and privacy policy: https://github.com/waskevin/uptime-kuma"
 
 [ru-ru]
 name = "Uptime Kuma"
 auth = "waskevin"
 descript = "Uptime Kuma is a self-hosted monitoring tool for your TNAS. Watch websites, HTTP endpoints, TCP ports, ping, DNS records and Docker containers, get notified by email, webhook, Telegram, ntfy and many other channels, and publish your own status pages."
-release_note = "1. Initial release."
-important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center."
+release_note = "1.0.1: initial release."
+important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center. License: MIT. Source code, notices and privacy policy: https://github.com/waskevin/uptime-kuma"
 
 [tr-tr]
 name = "Uptime Kuma"
 auth = "waskevin"
 descript = "Uptime Kuma is a self-hosted monitoring tool for your TNAS. Watch websites, HTTP endpoints, TCP ports, ping, DNS records and Docker containers, get notified by email, webhook, Telegram, ntfy and many other channels, and publish your own status pages."
-release_note = "1. Initial release."
-important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center."
+release_note = "1.0.1: initial release."
+important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center. License: MIT. Source code, notices and privacy policy: https://github.com/waskevin/uptime-kuma"
 
 [pt-pt]
 name = "Uptime Kuma"
 auth = "waskevin"
 descript = "Uptime Kuma is a self-hosted monitoring tool for your TNAS. Watch websites, HTTP endpoints, TCP ports, ping, DNS records and Docker containers, get notified by email, webhook, Telegram, ntfy and many other channels, and publish your own status pages."
-release_note = "1. Initial release."
-important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center."
+release_note = "1.0.1: initial release."
+important = "On first start the web UI opens a database setup wizard: choose SQLite (embedded) and confirm. Then create the administrator account - there is no default password. Docker Engine must be installed and enabled from the TOS App Center. License: MIT. Source code, notices and privacy policy: https://github.com/waskevin/uptime-kuma"
