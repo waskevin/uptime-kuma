@@ -14,7 +14,7 @@ connect the application to.
 
 ## What the package itself does
 
-- It runs one Docker container from the public image `louislam/uptime-kuma:2.5.5`.
+- It runs one Docker container from the public image `louislam/uptime-kuma:2.5.11`.
 - It does not contain analytics, telemetry, advertising or tracking code.
 - It does not send any data to waskevin or to any third party.
 - It does not open network connections on its own; the only traffic is what
