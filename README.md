@@ -41,7 +41,7 @@ version: "3.8"
 
 services:
   uptime-kuma:
-    image: louislam/uptime-kuma:2.5.5
+    image: louislam/uptime-kuma:2.5.11
     restart: unless-stopped
     user: "1000:1000"
     ports:
